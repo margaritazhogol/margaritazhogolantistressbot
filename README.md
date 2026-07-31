@@ -31,21 +31,23 @@ stress-check-bot/
 ├── .env.example         # шаблон файла с токеном бота       
 └── .gitignore
 
-**▶️ Запуск локально   **     
-bash       
+**▶️ Запуск локально**           
+bash      
 git clone https://github.com/margaritazhogol/stress-check-bot.git       
-cd stress-check-bot        
+cd stress-check-bot      
 
-python -m venv .venv     
-source .venv/bin/activate   # Windows: .venv\Scripts\activate       
+python -m venv .venv       
+source .venv/bin/activate   # Windows: .venv\Scripts\activate      
 
-pip install -r requirements.txt       
+pip install -r requirements.txt      
 
-cp .env.example .env      
-# впиши в .env свой токен, полученный от @BotFather
+cp .env.example .env       
+# впиши в .env свой токен, полученный от @BotFather        
 
 python bot.py
-☁️ Деплой на PythonAnywhere (бесплатно, без отключений)
+
+
+**☁️ Деплой на PythonAnywhere (бесплатно, без отключений)**             
 Зарегистрируйся на pythonanywhere.com (Beginner-аккаунт, бесплатно)
 Загрузи файлы проекта через вкладку Files (или клонируй репозиторий через Bash-консоль: git clone ...)
 Открой Bash console и установи зависимости:

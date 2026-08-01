@@ -31,13 +31,13 @@ Data storage	| SQLite
 Configuration |	python-dotenv           
 
 **📁 Project structure**            
-margaritazhogolantistressbot/             
-├── bot.py              # entry point, handlers and dialogue logic             
-├── questions.py        # questions, answer weights and result texts             
-├── database.py         # SQLite storage                
-├── requirements.txt
-├── .env.example        # template for the bot token (and optional proxy)            
-└── .gitignore             
+margaritazhogolantistressbot/                 
+├── bot.py              # entry point, handlers and dialogue logic                   
+├── questions.py        # questions, answer weights and result texts                 
+├── database.py         # SQLite storage                   
+├── requirements.txt                    
+├── .env.example        # template for the bot token (and optional proxy)                 
+└── .gitignore                  
  
 **▶️ Running locally**          
 bash             
@@ -80,4 +80,4 @@ Verified during development:
 • transitions between all three result ranges         
 • the 🆘 button working at any point in the test, including mid-survey          
 • protection against re-answering an already-answered question         
-• <p align="center">Python • aiogram • 2026</p>            
+<p align="center">Python • aiogram • 2026</p>            

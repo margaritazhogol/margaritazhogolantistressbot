@@ -1,19 +1,25 @@
-<img width="735" height="1280" alt="1" src="https://github.com/user-attachments/assets/1a00a893-4c94-482e-8ff1-7fabaefd564c" /><img width="735" height="1280" alt="image" src="https://github.com/user-attachments/assets/26a241bc-8c74-4983-b813-1e0d11874e81" /><h1 align="center">🧠 Stress Check Bot</h1> <p align="center">A Telegram bot for psychological stress self-assessment among students</p> <p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/aiogram-3.x-2CA5E0?style=flat"/> <img src="https://img.shields.io/badge/DB-SQLite-003B57?style=flat&logo=sqlite&logoColor=white"/> </p>           
+<img width="855" height="1280" alt="2" src="https://github.com/user-attachments/assets/cae84346-e0d8-4b5e-bd4a-4e3e901ca757" /><img width="735" height="1280" alt="1" src="https://github.com/user-attachments/assets/d66c9a27-a174-4351-92c1-5947510efbff" /><img width="735" height="1280" alt="1" src="https://github.com/user-attachments/assets/1a00a893-4c94-482e-8ff1-7fabaefd564c" /><img width="735" height="1280" alt="image" src="https://github.com/user-attachments/assets/26a241bc-8c74-4983-b813-1e0d11874e81" /><h1 align="center">🧠 Stress Check Bot</h1> <p align="center">A Telegram bot for psychological stress self-assessment among students</p> <p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/aiogram-3.x-2CA5E0?style=flat"/> <img src="https://img.shields.io/badge/DB-SQLite-003B57?style=flat&logo=sqlite&logoColor=white"/> </p>           
 
-**🖼️ Screenshots**            
-<table> <tr> <td align="center"><b>Bot header</b><br/><!-- ![Bot header]            
-<img width="735" height="1280" alt="1" src="https://github.com/user-attachments/assets/9666fb5d-499c-4fc5-9d5b-6580ff80eeb8" /> --></td> <td align="center"><b>Start message</b><br/><!-- ![Start message]               
-<img width="855" height="1280" alt="2" src="https://github.com/user-attachments/assets/9910d769-a623-4a5d-b3d8-f00f834d34b0" />
---></td> </tr> <tr> <td align="center"><b>SOS button</b><br/><!-- ![SOS button]              
-<img width="1170" height="478" alt="3" src="https://github.com/user-attachments/assets/0649337e-63a4-443f-ac9d-93eb229a4e79" />
-<img width="972" height="1280" alt="4" src="https://github.com/user-attachments/assets/386af106-df92-42a3-8a23-5db094aa2a84" />
---></td> <td align="center"><b>Answering a question</b><br/><!-- ![Answering a question]                 
-<img width="1169" height="1121" alt="5" src="https://github.com/user-attachments/assets/f6930390-b446-4ffb-8f3c-ffb9238e21d8" />
-<img width="625" height="1280" alt="6" src="https://github.com/user-attachments/assets/198a0444-fbd5-4b6f-ae36-0d255358a36a" />
---></td> </tr> <tr> <td align="center" colspan="2"><b>Final result</b><br/><!-- ![Final result]                 
-<img width="622" height="1280" alt="7" src="https://github.com/user-attachments/assets/80de4c8e-934b-4825-b10c-b12824e4026c" />
-<img width="620" height="1280" alt="8" src="https://github.com/user-attachments/assets/5c5c73ba-8b85-4abc-a540-67afc7936060" />
---></td> </tr> </table>
+**🖼️ Screenshots**        
+
+**Bot header**           
+<img width="735" height="1280" alt="1" src="https://github.com/user-attachments/assets/98cee145-9eeb-450e-a0cf-58a23f5b3054" />          
+
+**Start message**            
+<img width="855" height="1280" alt="2" src="https://github.com/user-attachments/assets/6441b72a-d9ef-44b7-866c-d95b5b63471d" />          
+
+**SOS button**            
+<img width="1170" height="478" alt="3" src="https://github.com/user-attachments/assets/53195909-4b2d-42e6-a58f-c7f20344779e" />           
+<img width="972" height="1280" alt="4" src="https://github.com/user-attachments/assets/bf9e4205-ec54-401e-ba6c-743b75ec3c5e" />         
+
+**Answering a question**           
+<img width="1169" height="1121" alt="5" src="https://github.com/user-attachments/assets/5150ea2c-4a36-465d-8a73-a7493bc53d41" />            
+<img width="625" height="1280" alt="6" src="https://github.com/user-attachments/assets/3abb9afe-be19-48bb-a7d4-00c58cf9ea37" />              
+
+**Final result**                  
+<img width="622" height="1280" alt="7" src="https://github.com/user-attachments/assets/6d1c0031-7e79-45cf-b869-2255b98c9b4e" />             
+<img width="620" height="1280" alt="8" src="https://github.com/user-attachments/assets/8dc70c73-811d-45af-ab13-cde43271d7d1" />           
+
 
 **📖 About the project**               
 
